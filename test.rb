@@ -5,7 +5,7 @@ class Test < Formula
 
   
   url "https://github.com/uetchy/test/releases/download/v1.0.0/README.md"
-  sha256 "970bbf43036ea33ca591752b22099e6f32222708"
+  sha256 "b69c594e8361f20b30bf12090e0db3ec1cc06a80"
   
 
   def install
